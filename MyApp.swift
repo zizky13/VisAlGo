@@ -14,7 +14,6 @@ struct MyApp: App {
                                 "arrow.up.and.down.and.arrow.left.and.right"
                         )
                     }
-
                 ContentView()
                     .tabItem {
                         Label("Array", systemImage: "rectangle.grid.1x2")

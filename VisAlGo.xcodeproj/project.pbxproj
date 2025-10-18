@@ -6,8 +6,50 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		B92CA9272EA3C06200AAECCB /* TreeAlgoControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA9212EA3C06200AAECCB /* TreeAlgoControlsView.swift */; };
+		B92CA9282EA3C06200AAECCB /* AppAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA9132EA3C06200AAECCB /* AppAlert.swift */; };
+		B92CA9292EA3C06200AAECCB /* ArrayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA91E2EA3C06200AAECCB /* ArrayView.swift */; };
+		B92CA92A2EA3C06200AAECCB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA91F2EA3C06200AAECCB /* ContentView.swift */; };
+		B92CA92B2EA3C06200AAECCB /* ArrayElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA9142EA3C06200AAECCB /* ArrayElement.swift */; };
+		B92CA92C2EA3C06200AAECCB /* VisualizationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA9252EA3C06200AAECCB /* VisualizationView.swift */; };
+		B92CA92D2EA3C06200AAECCB /* AlgorithmControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA91B2EA3C06200AAECCB /* AlgorithmControlsView.swift */; };
+		B92CA92E2EA3C06200AAECCB /* ElementView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA9202EA3C06200AAECCB /* ElementView.swift */; };
+		B92CA92F2EA3C06200AAECCB /* MyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA90C2EA3C06200AAECCB /* MyApp.swift */; };
+		B92CA9302EA3C06200AAECCB /* TreeSetupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA9222EA3C06200AAECCB /* TreeSetupView.swift */; };
+		B92CA9312EA3C06200AAECCB /* ArraySetupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA91D2EA3C06200AAECCB /* ArraySetupView.swift */; };
+		B92CA9322EA3C06200AAECCB /* TreeVisualizerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA9242EA3C06200AAECCB /* TreeVisualizerView.swift */; };
+		B92CA9332EA3C06200AAECCB /* AlgoVisualizerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA9192EA3C06200AAECCB /* AlgoVisualizerViewModel.swift */; };
+		B92CA9342EA3C06200AAECCB /* DescribableAlgo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA9172EA3C06200AAECCB /* DescribableAlgo.swift */; };
+		B92CA9352EA3C06200AAECCB /* TreeNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA9152EA3C06200AAECCB /* TreeNode.swift */; };
+		B92CA9362EA3C06200AAECCB /* AlgorithmInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA91C2EA3C06200AAECCB /* AlgorithmInfoView.swift */; };
+		B92CA9372EA3C06200AAECCB /* TreeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B92CA9232EA3C06200AAECCB /* TreeView.swift */; };
+		B92CA9382EA3C06200AAECCB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B92CA90E2EA3C06200AAECCB /* Assets.xcassets */; };
+		B92CA93C2EA3C06200AAECCB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B92CA90B2EA3C06200AAECCB /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		B92CA8FD2EA3C05900AAECCB /* VisAlGo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VisAlGo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B92CA90B2EA3C06200AAECCB /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B92CA90C2EA3C06200AAECCB /* MyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyApp.swift; sourceTree = "<group>"; };
+		B92CA90D2EA3C06200AAECCB /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
+		B92CA90E2EA3C06200AAECCB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B92CA9132EA3C06200AAECCB /* AppAlert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppAlert.swift; sourceTree = "<group>"; };
+		B92CA9142EA3C06200AAECCB /* ArrayElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayElement.swift; sourceTree = "<group>"; };
+		B92CA9152EA3C06200AAECCB /* TreeNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeNode.swift; sourceTree = "<group>"; };
+		B92CA9172EA3C06200AAECCB /* DescribableAlgo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DescribableAlgo.swift; sourceTree = "<group>"; };
+		B92CA9192EA3C06200AAECCB /* AlgoVisualizerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgoVisualizerViewModel.swift; sourceTree = "<group>"; };
+		B92CA91B2EA3C06200AAECCB /* AlgorithmControlsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorithmControlsView.swift; sourceTree = "<group>"; };
+		B92CA91C2EA3C06200AAECCB /* AlgorithmInfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorithmInfoView.swift; sourceTree = "<group>"; };
+		B92CA91D2EA3C06200AAECCB /* ArraySetupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraySetupView.swift; sourceTree = "<group>"; };
+		B92CA91E2EA3C06200AAECCB /* ArrayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayView.swift; sourceTree = "<group>"; };
+		B92CA91F2EA3C06200AAECCB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		B92CA9202EA3C06200AAECCB /* ElementView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElementView.swift; sourceTree = "<group>"; };
+		B92CA9212EA3C06200AAECCB /* TreeAlgoControlsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeAlgoControlsView.swift; sourceTree = "<group>"; };
+		B92CA9222EA3C06200AAECCB /* TreeSetupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeSetupView.swift; sourceTree = "<group>"; };
+		B92CA9232EA3C06200AAECCB /* TreeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeView.swift; sourceTree = "<group>"; };
+		B92CA9242EA3C06200AAECCB /* TreeVisualizerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TreeVisualizerView.swift; sourceTree = "<group>"; };
+		B92CA9252EA3C06200AAECCB /* VisualizationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualizationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +76,14 @@
 			children = (
 				B92CA8FF2EA3C05900AAECCB /* VisAlGo */,
 				B92CA8FE2EA3C05900AAECCB /* Products */,
+				B92CA90B2EA3C06200AAECCB /* README.md */,
+				B92CA90C2EA3C06200AAECCB /* MyApp.swift */,
+				B92CA90D2EA3C06200AAECCB /* MyPlayground.playground */,
+				B92CA90E2EA3C06200AAECCB /* Assets.xcassets */,
+				B92CA9162EA3C06200AAECCB /* Models */,
+				B92CA9182EA3C06200AAECCB /* Protocols */,
+				B92CA91A2EA3C06200AAECCB /* ViewModels */,
+				B92CA9262EA3C06200AAECCB /* Views */,
 			);
 			sourceTree = "<group>";
 		};
@@ -43,6 +93,50 @@
 				B92CA8FD2EA3C05900AAECCB /* VisAlGo.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		B92CA9162EA3C06200AAECCB /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				B92CA9132EA3C06200AAECCB /* AppAlert.swift */,
+				B92CA9142EA3C06200AAECCB /* ArrayElement.swift */,
+				B92CA9152EA3C06200AAECCB /* TreeNode.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		B92CA9182EA3C06200AAECCB /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				B92CA9172EA3C06200AAECCB /* DescribableAlgo.swift */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		B92CA91A2EA3C06200AAECCB /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+				B92CA9192EA3C06200AAECCB /* AlgoVisualizerViewModel.swift */,
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		B92CA9262EA3C06200AAECCB /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				B92CA91B2EA3C06200AAECCB /* AlgorithmControlsView.swift */,
+				B92CA91C2EA3C06200AAECCB /* AlgorithmInfoView.swift */,
+				B92CA91D2EA3C06200AAECCB /* ArraySetupView.swift */,
+				B92CA91E2EA3C06200AAECCB /* ArrayView.swift */,
+				B92CA91F2EA3C06200AAECCB /* ContentView.swift */,
+				B92CA9202EA3C06200AAECCB /* ElementView.swift */,
+				B92CA9212EA3C06200AAECCB /* TreeAlgoControlsView.swift */,
+				B92CA9222EA3C06200AAECCB /* TreeSetupView.swift */,
+				B92CA9232EA3C06200AAECCB /* TreeView.swift */,
+				B92CA9242EA3C06200AAECCB /* TreeVisualizerView.swift */,
+				B92CA9252EA3C06200AAECCB /* VisualizationView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -109,6 +203,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B92CA9382EA3C06200AAECCB /* Assets.xcassets in Resources */,
+				B92CA93C2EA3C06200AAECCB /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,6 +215,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B92CA9272EA3C06200AAECCB /* TreeAlgoControlsView.swift in Sources */,
+				B92CA9282EA3C06200AAECCB /* AppAlert.swift in Sources */,
+				B92CA9292EA3C06200AAECCB /* ArrayView.swift in Sources */,
+				B92CA92A2EA3C06200AAECCB /* ContentView.swift in Sources */,
+				B92CA92B2EA3C06200AAECCB /* ArrayElement.swift in Sources */,
+				B92CA92C2EA3C06200AAECCB /* VisualizationView.swift in Sources */,
+				B92CA92D2EA3C06200AAECCB /* AlgorithmControlsView.swift in Sources */,
+				B92CA92E2EA3C06200AAECCB /* ElementView.swift in Sources */,
+				B92CA92F2EA3C06200AAECCB /* MyApp.swift in Sources */,
+				B92CA9302EA3C06200AAECCB /* TreeSetupView.swift in Sources */,
+				B92CA9312EA3C06200AAECCB /* ArraySetupView.swift in Sources */,
+				B92CA9322EA3C06200AAECCB /* TreeVisualizerView.swift in Sources */,
+				B92CA9332EA3C06200AAECCB /* AlgoVisualizerViewModel.swift in Sources */,
+				B92CA9342EA3C06200AAECCB /* DescribableAlgo.swift in Sources */,
+				B92CA9352EA3C06200AAECCB /* TreeNode.swift in Sources */,
+				B92CA9362EA3C06200AAECCB /* AlgorithmInfoView.swift in Sources */,
+				B92CA9372EA3C06200AAECCB /* TreeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
