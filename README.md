@@ -30,6 +30,25 @@ How To Use
   - Tap “Setup Tree”, pick BFS or DFS, then “Run Algorithm”.
   - The Queue/Stack visualizer shows the traversal order.
 
+
+Screenshots
+![freeimgen_1760792273706](https://github.com/user-attachments/assets/beb2de45-ab81-4d4a-9282-f4f49f0d7f74)
+![freeimgen_1760792277050](https://github.com/user-attachments/assets/080bb839-947e-4a09-afd5-bbcbce7b2179)
+![freeimgen_1760792280582](https://github.com/user-attachments/assets/2616588f-6714-4db5-9771-12a5c26ac559)
+![freeimgen_1760792283605](https://github.com/user-attachments/assets/92985da9-cf44-4543-89ec-ced1aa96a117)
+![freeimgen_1760792286270](https://github.com/user-attachments/assets/acdfa843-843d-42bf-bb6f-724f0ce5a295)
+![freeimgen_1760792289127](https://github.com/user-attachments/assets/0f23ab21-f2f8-4ad2-a404-344c9d2c4459)
+![freeimgen_1760792291830](https://github.com/user-attachments/assets/71fd2459-20ad-4ef5-b89c-517668874faf)
+![freeimgen_1760792295020](https://github.com/user-attachments/assets/9b1a5c5a-719c-454d-9304-9d1e554a3c6d)
+![freeimgen_1760792298025](https://github.com/user-attachments/assets/29cd36b3-764e-4cfe-a1aa-592a60d1b00f)
+![freeimgen_1760792301490](https://github.com/user-attachments/assets/77dd5c71-3bca-4e29-9b8f-0953eb2c1632)
+![freeimgen_1760792304491](https://github.com/user-attachments/assets/136e17c3-2f38-4677-915e-5b0376d22c29)
+![freeimgen_1760792307345](https://github.com/user-attachments/assets/bd2b8c28-d7bd-49d8-93ff-f80daf8a51b1)
+![freeimgen_1760792310007](https://github.com/user-attachments/assets/728c1de7-dfc8-4671-abc3-74287fe92f63)
+![freeimgen_1760792312748](https://github.com/user-attachments/assets/d972ff76-6261-4e5b-af03-a780c9406c0f)
+
+
+
 Color Legend (Array & Tree)
 - Blue: Default state
 - Orange: Processing/visiting
